@@ -8,9 +8,9 @@ The **Random Forest Classifier** performed best on the dataset.
 
 📄 The report is available in `ML-Proj-Report.pdf`.
 
----
 
-## 🚀 How to Run:
+
+## How to Run:
 
 1. Install dependencies from `requirements.txt` using:  
    `pip install -r requirements.txt`
