@@ -1,14 +1,29 @@
-# Diabetes-Classification-Project-Ml-Dl
-This is a machine learning project designed to predict whether a person has diabetes using features like age, glucose level, blood pressure, skin thickness, etc. It includes a simple web interface built with HTML and CSS.
+# Diabetes-Classification-Project-ML-DL
 
-The notebook Diabetes Classification.ipynb handles data analysis, model testing, and selection. The Random Forest Classifier performed best on the dataset.
+This is a **machine learning project** designed to predict whether a person has **diabetes** using features like **age, glucose level, blood pressure, skin thickness**, etc.  
+It includes a simple **web interface** built with **HTML and CSS**.
 
-The report is available in ML-Proj-Report.pdf.
-How to Run:
-Install dependencies from requirements.txt using pip install -r requirements.txt.
+The notebook `Diabetes Classification.ipynb` handles data analysis, model testing, and selection.  
+The **Random Forest Classifier** performed best on the dataset.
 
-To train the model yourself, run Diabetes Predictor - Deployment.py. It will generate diabetes-prediction-rfc-model.pkl.
+📄 The report is available in `ML-Proj-Report.pdf`.
 
-Start the app by running app.py.
+---
 
-The interface uses index.html and result.html for input and output.
+## 🚀 How to Run:
+
+1. Install dependencies from `requirements.txt` using:  
+   `pip install -r requirements.txt`
+
+2. To train the model yourself, run:  
+   `Diabetes Predictor - Deployment.py`  
+   It will generate:  
+   `diabetes-prediction-rfc-model.pkl`
+
+3. Start the app using:  
+   `app.py`
+
+4. The interface uses:  
+   - `index.html` (input form)  
+   - `result.html` (result display)
+
